@@ -9,7 +9,7 @@
 - **Total de Testes**: 6
 - **Aprovados**: 6 (100%)
 - **Falhas**: 0
-- **Duração**: 8.257s
+- **Duração**: 6,9s
 
 **Cenários testados**:
 - Validação de formulário (sucesso e erros).
