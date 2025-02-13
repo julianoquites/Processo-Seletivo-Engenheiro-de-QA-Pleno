@@ -8,7 +8,7 @@ Este repositório contém os testes realizados para o processo seletivo de Engen
 
 - k6 para testes de performance.
 
-O formulário de cadastro utilizado nos testes de UI foi desenvolvido por mim e pode ser acessado no seguinte link: [Formulário de cadastro](https://julianoquites.github.io/mock-formulario-de-cadastro/).
+O formulário de cadastro utilizado nos testes de UI foi desenvolvido por mim e pode ser acessado no seguinte link: [Formulário de cadastro](https://julianoquites.github.io/mock-formulario-de-cadastro/@blank).
 
 
 ## Resultados dos Testes de UI
