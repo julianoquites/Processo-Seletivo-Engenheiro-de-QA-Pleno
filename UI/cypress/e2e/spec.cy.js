@@ -1,4 +1,4 @@
-describe("template spec", () => {
+describe("Testes de UI (Interface) de formulário de cadastro", () => {
   beforeEach(() => {
     cy.visit("https://julianoquites.github.io/mock-formulario-de-cadastro/");
   });
