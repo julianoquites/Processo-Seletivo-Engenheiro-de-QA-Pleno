@@ -10,6 +10,8 @@ Este repositório contém os testes realizados para o processo seletivo de Engen
 
 O formulário de cadastro utilizado nos testes de UI foi desenvolvido por mim e pode ser acessado no seguinte link: [Formulário de cadastro](https://julianoquites.github.io/mock-formulario-de-cadastro/).
 
+OBS: o serviço [JSONPlaceholder](https://jsonplaceholder.typicode.com/), utilizado nos testes de API, não retorna respostas com status **400** para requisições inválidas. Para cobrir esse cenário, foi necessário criar um **mock** que simula a resposta esperada ao tentar enviar um post sem os campos obrigatórios. Esse teste garante que, caso o sistema real implementasse essa validação, ele reagiria corretamente a requisições malformadas.  
+
 
 ## Resultados dos Testes de UI
 [Relatório dos Testes de UI](https://github.com/user-attachments/assets/be03db35-8ec1-4a48-9d9c-d933348e9bcc)
