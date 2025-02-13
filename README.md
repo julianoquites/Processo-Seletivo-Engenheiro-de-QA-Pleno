@@ -1,6 +1,17 @@
 # Processo-Seletivo-Engenheiro-de-QA-Pleno
 
+## Resultados dos Testes de UI
 
+- **Total de Testes**: 6
+- **Aprovados**: 6 (100%)
+- **Falhas**: 0
+- **Duração**: 8.257s
+
+**Cenários testados**:
+- Validação de formulário (sucesso e erros).
+- Verificação de senha (tamanho, maiúscula e número).
+
+**Conclusão**: Todos os testes passaram, indicando que a UI está funcionando conforme o esperado.
 
 ## Resultados do Teste de Performance com k6
 
