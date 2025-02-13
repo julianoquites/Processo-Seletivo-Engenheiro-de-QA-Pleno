@@ -1,4 +1,4 @@
-# Processo-Seletivo-Engenheiro-de-QA-Pleno
+# Processo Seletivo Engenheiro de QA Pleno
 
 Este repositório contém os testes realizados para o processo seletivo de Engenheiro de QA Pleno.  As ferramentas utilizadas foram:
 
