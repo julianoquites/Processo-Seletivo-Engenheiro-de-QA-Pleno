@@ -1,6 +1,14 @@
 # Processo-Seletivo-Engenheiro-de-QA-Pleno
 
+Este repositório contém os testes realizados para o processo seletivo de Engenheiro de QA Pleno.  As ferramentas utilizadas foram:
 
+- Cypress para testes de UI.
+
+- Jest e Supertest para testes de API.
+
+- k6 para testes de performance.
+
+O formulário de cadastro utilizado nos testes de UI foi desenvolvido por mim e pode ser acessado no seguinte link: Mock Formulário de Cadastro.
 
 
 ## Resultados dos Testes de UI
